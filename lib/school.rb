@@ -26,7 +26,6 @@ class School
         students.sort
       end
     end
-    @roster
   end
 
 end
